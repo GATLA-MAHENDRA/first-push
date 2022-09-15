@@ -1,0 +1,59 @@
+.navbar{
+			margin:2%;
+			border:1px solid whitesmoke;
+			background-color:white;
+			line-height:2;
+			padding:2px;
+		}
+		.navbar a{
+			text-decoration:none;
+			margin-right:1%;
+		}
+		.box1{
+			margin:5%;
+			border:1px solid skyblue;
+			background-color:deepskyblue;
+			line-height:2;
+			padding:3px;
+			font-size:15px;
+			text-align:center;
+		}
+		.main{
+			margin:3%,;
+			border:1px solid whitesmoke;
+			background-color:white;
+			line-height:3;
+			padding:3px;
+			font-size:20px;
+			text-align:center;
+		}
+		.box{
+			display: flex;
+			margin:3%;
+			text-align: center;
+		}
+		.box i{
+			border:1px solid blueviolet;
+			padding:5%;
+			border-radius:50%;
+		}
+		.box4{
+			margin:5%;
+			border:1px solid skyblue;
+			background-color:deepsky
+			blue;
+			line-height:2;
+			padding:3px;
+			font-size:15px;
+			text-align:center;
+		}
+		.box5{
+			margin:1%;
+			border:1px solid whitesmoke;
+			background:black;
+			line-height:1;
+			padding:1px;
+			font-size:15px;
+			text-indent:15px;
+			letter-spacing:1px;
+		}
